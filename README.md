@@ -4,5 +4,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/QuantLib-003B57?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 </p>
